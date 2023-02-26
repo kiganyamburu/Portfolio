@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&family=Lemonada:wght@300&family=Lobster&family=Metal+Mania&display=swap');
+
+
+
+nav {
+    padding: 1em;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+/*  The first part of the website */
+
+.part1 {
+    height: 27vh;
+}
+
+.myname {
+    padding-left: 2rem;
+    margin-bottom: 0rem;
+}
+
+.left {
+    font-weight: lighter;
+    font-size: 1.1rem;
+}
+
+.pic {
+    border-radius: 70%;
+    border: solid lime 2px;
+    height: 15rem;
+}
+
+/*  The second part of the website */
+
+.part2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.details {
+    text-decoration: wavy;
+    word-spacing: 1vh;
+    letter-spacing: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*  The third part of the website */
+
+.part3 {
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+.card-image {
+    border-radius: 50%;
+}
